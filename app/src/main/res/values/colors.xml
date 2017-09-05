@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#1c1b17</color>
+    <color name="colorPrimaryDark">#e60981</color>
+    <color name="colorAccent">#1c1b17</color>
+    <color name="default_color">#AAB8C2</color>
+    <color name="like">#E81C4F</color>
+    <color name="retweet">#19CF86</color>
+    <color name="reply">#AAB8C2</color>
+    <color name="pressed">#661DA1F2</color>
+</resources>
